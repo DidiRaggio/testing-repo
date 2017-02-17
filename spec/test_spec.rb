@@ -3,7 +3,7 @@ describe Hello do
 		it "is a test" do
 			# expect(1).to eql(1)
 			@hello = Hello.new
-			@hello.hello
+			expect(@hello.pow(3, 2)).to eql(9)
 		end
 	end
 end

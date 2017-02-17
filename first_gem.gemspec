@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Diego Raggio"]
   spec.email         = ["didiraggio@gmail.com"]
 
-  spec.summary       = %q{this the summary of my first gem}
-  spec.description   = %q{this is the description of my first gem}
+  spec.summary       = %q{First Gem}
+  spec.description   = %q{this gives the power of a number}
   spec.homepage      = "hhtp://martintraggio.com"
   spec.license       = "MIT"
 
