@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/DidiRaggio/testing-repo.svg?branch=master)](https://travis-ci.org/DidiRaggio/testing-repo)
 
-[![Coverage Status](https://coveralls.io/repos/github/DidiRaggio/testing-exercise/badge.svg?branch=master)](https://coveralls.io/github/DidiRaggio/testing-exercise?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/DidiRaggio/testing-repo/badge.svg?branch=master)](https://coveralls.io/github/DidiRaggio/testing-repo?branch=master)
 
 
 # FirstGem
